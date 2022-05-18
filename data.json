@@ -17,7 +17,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/300px-札幌競馬場_新スタンド.jpg",
       "43.076178",
       "141.323912",
       "札幌競馬場",
@@ -26,7 +26,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/250px-Hakodate_Racecourse_Main_Stand_20100725C1.jpg",
       "41.782227",
       "140.774685",
       "函館競馬場",
@@ -35,7 +35,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/Fukushima_Keibajo_Front_Close.jpg",
       "37.765364",
       "140.480111",
       "福島競馬場\r",
@@ -44,7 +44,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/300px-中山競馬場.jpg",
       "35.725288",
       "139.963078",
       "中山競馬場",
@@ -53,7 +53,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/250px-Tokyo_Racecourse_Fuji_view_stand_20070422.jpg",
       "35.66249",
       "139.485841",
       "東京競馬場",
@@ -62,7 +62,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/250px-Niigata_Racecourse_01.jpg",
       "37.947433",
       "139.18697",
       "新潟競馬場",
@@ -71,7 +71,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/250px-Chukyo_Racetrack_15.jpg",
       "35.065899",
       "136.992516",
       "中京競馬場",
@@ -80,7 +80,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/250px-KyotoRacecourse_Hall.jpg",
       "34.906816",
       "135.727228",
       "京都競馬場",
@@ -89,7 +89,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/250px-Hanshin_race_course_07.jpg",
       "34.780258",
       "135.362072",
       "阪神競馬場",
@@ -98,7 +98,7 @@
     [
       "",
       "中央競馬",
-      "https://yudilloyd.github.io/keiba-map/",
+      "https://yudilloyd.github.io/keiba-map/250px-Kokura_Racecourse_Main_Stand_20080817.jpg",
       "33.842709",
       "130.872837",
       "小倉競馬場",
@@ -107,7 +107,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "42.921064",
       "143.182235",
       "帯広競馬場",
@@ -116,7 +116,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/230px-Mombetsu_Racecourse_Polaris_Dome_20090813.jpg",
       "42.537375",
       "142.008",
       "門別競馬場",
@@ -125,7 +125,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "39.69282",
       "141.219143",
       "盛岡競馬場",
@@ -134,7 +134,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "39.130236",
       "141.167636",
       "水沢競馬場",
@@ -143,7 +143,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "35.857387",
       "139.669868",
       "浦和競馬場",
@@ -155,7 +155,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "35.687536",
       "139.995046",
       "船橋競馬場",
@@ -164,7 +164,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "35.592222",
       "139.740825",
       "大井競馬場",
@@ -176,7 +176,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "35.533595",
       "139.709149",
       "川崎競馬場",
@@ -185,7 +185,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "36.636508",
       "136.674794",
       "金沢競馬場",
@@ -194,7 +194,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "35.372419",
       "136.765224",
       "笠松競馬場",
@@ -203,7 +203,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "35.051975",
       "136.783371",
       "名古屋競馬場",
@@ -212,7 +212,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "34.856189",
       "134.701388",
       "姫路競馬場",
@@ -221,7 +221,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "34.766472",
       "135.445035",
       "園田競馬場",
@@ -230,7 +230,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "33.504631",
       "133.530252",
       "高知競馬場",
@@ -239,7 +239,7 @@
     [
       "",
       "地方競馬",
-      "",
+      "https://yudilloyd.github.io/keiba-map/",
       "33.350695",
       "130.469863",
       "佐賀競馬場",
